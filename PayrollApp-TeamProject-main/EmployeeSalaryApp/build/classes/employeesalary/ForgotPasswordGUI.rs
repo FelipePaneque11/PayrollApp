@@ -1,4 +1,0 @@
-payrollsystem.ForgotPasswordGUI$2
-payrollsystem.ForgotPasswordGUI$1
-payrollsystem.ForgotPasswordGUI$3
-payrollsystem.ForgotPasswordGUI
